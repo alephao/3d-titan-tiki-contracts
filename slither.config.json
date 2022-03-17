@@ -1,0 +1,5 @@
+{
+  "solc_remaps": "@openzeppelin/=lib/openzeppelin-contracts/ solmate/=lib/solmate/src/",
+  "filter_paths": "lib",
+  "detectors_to_exclude": "solc-version"
+}
